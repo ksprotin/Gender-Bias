@@ -1,4 +1,4 @@
-Language;Family;Pronominal Gender System;Supported
-Malay;Austronesian;No;Yes
-Estonian;Finno-Ugric;No;Yes
-Swahili;Other Natural Languages;No;Yes
+Language,Family,Pronominal Gender System,Supported
+Malay,Austronesian,No,Yes
+Estonian,Finno-Ugric,No,Yes
+Swahili,Other Natural Languages,No,Yes

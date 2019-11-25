@@ -1,0 +1,8 @@
+English,Malay,Estonian,Swahili
+Construction trades,dia belajar dagangan pembinaan,ehitustöödel,biashara ya ujenzi
+Computer and information sciences,dia belajar komputer dan maklumat sains,arvutite ja informaatika vallas,kompyuta na habari sayansi
+Philosophy and religious studies,'dia belajar falsafah dan pengajian agama,filosoofia ja religiooniõpetuse,falsafa na masomo ya kidini
+Homeland security, law enforcement, and firefighting,'dia belajar keselamatan dalam negeri, penguatkuasaan undang-undang, dan memadam kebakaran,sisejulgeolek, õiguskaitse ja tuletõrje,usalama wa nchi, utekelezaji wa sheria, na kuzima moto
+Visual and performing arts,dia belajar seni visual dan persembahan,kujutav ja lavakunst,sanaa visual na kufanya
+Education,dia belajar pendidikan,haridus,elimu
+Library science,dia belajar sains perpustakaan,raamatukogunduse,maktaba ya sayansi
